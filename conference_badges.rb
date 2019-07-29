@@ -26,3 +26,4 @@ end
   assign_rooms(name).each do |rooms|
     puts rooms
 end
+end
