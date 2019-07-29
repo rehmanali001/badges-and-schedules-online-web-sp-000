@@ -11,7 +11,7 @@ end
   new_array
 end
 
-def assign_rooms()
+def assign_rooms(name)
   new_array = []
   name.each_with_index do |item, index|
   return "Hello, #{name}! You'll be assigned to room #{index + 1}!"
