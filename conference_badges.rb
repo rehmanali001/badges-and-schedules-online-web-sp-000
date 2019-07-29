@@ -11,5 +11,8 @@ end
   new_array
 end
 
-def assign_rooms(speaker)
+def assign_rooms(name)
+  
+  return "Hello, #{name}! You'll be assigned to room  "
+end
   
