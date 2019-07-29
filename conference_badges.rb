@@ -20,6 +20,6 @@ new_array
 end
 
 def printer(name)
-  batch_badge_creator.each do 
+  batch_badge_creator(name).each do 
   
 end
