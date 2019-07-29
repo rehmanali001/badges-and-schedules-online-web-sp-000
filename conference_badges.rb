@@ -11,7 +11,7 @@ end
   new_array
 end
 
-def assign_rooms(name)
+def assign_rooms()
   name.each_with_index { |item, index| 
     name[item] = index
   }
