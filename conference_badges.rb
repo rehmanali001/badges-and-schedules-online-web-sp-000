@@ -15,4 +15,3 @@ def assign_rooms(name)
   name.each_with_index do { |item, index| }
   return "Hello, #{item}! You'll be assigned to room #{index}!"
 end
-end
