@@ -12,7 +12,7 @@ end
 end
 
 def assign_rooms(name)
-  name.each
+  name.each_with_index { | }
   return "Hello, #{name}! You'll be assigned to room  "
 end
   
